@@ -1,1 +1,4 @@
-# MyCosing
+# MyCoding
+
+- Java
+- .Net
